@@ -13,5 +13,4 @@ class PermissionClass(private val activity: Activity) {
                 ActivityCompat.requestPermissions(activity, arrayOf(Manifest.permission.WRITE_EXTERNAL_STORAGE), 1)
             }
     }
-
 }

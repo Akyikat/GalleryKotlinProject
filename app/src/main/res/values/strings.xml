@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">GalleryApp</string>
     <string name="gallery_photos">Выбор фотографий</string>
+    <string name="done">Готово</string>
+    <string name="selected_images">Выбранные фотографии</string>
+    <string name="limit">Больше 10 фотографий выбирать нельзя</string>
 </resources>
